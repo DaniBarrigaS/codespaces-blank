@@ -1,0 +1,6 @@
+numero= (int("input(numero"))
+numero1=(int("input(numero1)")
+suma= int(input {numero}+{numero1})
+resta= int(input {numero}-{numero1})
+print= input(f"suma")
+print= input(f"resta")
