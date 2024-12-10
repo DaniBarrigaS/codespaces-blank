@@ -1,0 +1,5 @@
+numb = 10 #se define una variable 
+
+while numb > 0: #se verifica que el n° es una condicion verdadera (igual o mayor a 1)
+    print(numb)
+    numb = numb - 1

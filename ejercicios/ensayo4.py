@@ -1,5 +1,5 @@
-numero=int(input("numero"))
-numero1=int(input("numero1"))
+numero=int(input("numero: "))
+numero1=int(input("numero1: "))
 suma= numero+numero1
 resta= numero-numero1
 multiplicacion= numero*numero1

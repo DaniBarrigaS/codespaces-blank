@@ -1,0 +1,6 @@
+suma = 0  #se inicia la suma en 0
+for i in range(1, 51): #se define for para tener el rango
+    if i % 2== 0: #preguntamos si es par o no, para que cuando sea par se imprima
+        suma= suma + i #se mantiene la suma y se suma los numeros pares 
+
+print(suma) #se imprime suma total de numeros pares.
